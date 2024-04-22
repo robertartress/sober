@@ -1,7 +1,7 @@
 var playerData = [
   {
-    title: "PLACEHOLDER_SONG_TITLE",
-    file: "PLACEHOLDER_FILENAME",
+    title: "Sober [DEMO]",
+    file: "Sober [DEMO].flac",
     howl: null
   }
   // Add more tracks as needed
